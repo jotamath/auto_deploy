@@ -1,0 +1,6 @@
+{
+    "gitRepo": "github.com/exemplo/repositorio.git",
+    "dockerFile": "D:/pasta_exemplo/repositorio/dockerfile",
+    "k8sConfig": "D:/pasta_exemplo/repositorio/kubeconfig",
+    "gitlabUrl": "gitlab.com/exemplo/repo_gitlab"
+}

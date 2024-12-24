@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "deploy-automation"
+version = "0.1.0"
+description = "Aplicação para automatizar processos de Deploy"
+authors = ["João Costa"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+PySimpleGUI = "^5.0.7"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
